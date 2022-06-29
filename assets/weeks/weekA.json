@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"postal",
+			"ike",
+			[
+				40,
+				20,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ABg",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Begin of the story",
+	"weekName": "Ayko-Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
