@@ -1,2 +1,3 @@
 PsychEngine.exe
 assets/images/credits/ayk.png
+assets/images/credits/ayko-tan.png
