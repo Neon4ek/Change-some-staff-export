@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "shed",
+		"player1": "bfshed",
+		"player2": "sndk",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				2000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					]
+				]
+			],
+			[
+				8125,
+				[
+					[
+						"Goodbye Hud",
+						"100",
+						"4"
+					]
+				]
+			],
+			[
+				40000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Goodbye Hud",
+						"60",
+						"0.5"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"1"
+					],
+					[
+						"Goodbye Hud",
+						"100",
+						"0.1"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				72125,
+				[
+					[
+						"Goodbye Hud",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				73625,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SNDK-ops"
+					]
+				]
+			],
+			[
+				74750,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SNDK-ops"
+					]
+				]
+			],
+			[
+				75500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SNDK-ops"
+					]
+				]
+			],
+			[
+				75875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"SNDK-ops"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.5"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfshed",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "shed"
+	}
+}

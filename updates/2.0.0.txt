@@ -1,3 +1,8 @@
 PsychEngine.exe
 assets/images/credits/ayk.png
 assets/images/credits/ayko-tan.png
+mods/data/shed/events.json
+mods/data/shed/shed-hard.json
+mods/songs/shed/Inst.ogg
+mods/songs/shed/Voices.ogg
+mods/weeks/weekTest.json
